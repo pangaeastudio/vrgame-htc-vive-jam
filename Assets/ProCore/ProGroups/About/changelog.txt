@@ -1,5 +1,0 @@
--- ProGroups 1.1.0 -
-
-# Features
-# Bug Fixes
-# Changes
